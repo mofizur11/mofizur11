@@ -24,4 +24,10 @@ Over the past two years, I have developed various Flutter applications, honing m
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devmofizurrahman/)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mofizur853@gmail.com)
 
+## GitHub Stats:
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mofizur11&count_private=true&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mofizur11&layout=compact&langs_count=8&theme=radical" />
+
+
  

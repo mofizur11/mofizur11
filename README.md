@@ -1,6 +1,6 @@
 ## About Me
 
-Over the past two years, I have developed various Flutter applications, honing my skills in Dart, state management solutions such as Bloc and GetX, and integrating APIs for seamless user experiences. My ability to develop fully functional mobile applications across Android and iOS, focusing on clean code, modular architecture, and responsive UI, has helped me deliver efficient and user-friendly solutions.
+Mid-level Flutter developer with 2+ years of experience building cross-platform mobile, web, and Windows applications. Skilled in Dart, Flutter, BLoC, GetX, Firebase, and REST APIs. Delivered production-ready solutions on Android, iOS, web, and desktop platforms with a focus on clean architecture and responsive design.
 
 ## Languages and Tools:
 

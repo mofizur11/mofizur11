@@ -24,10 +24,7 @@ Flutter Developer with 4 years of experience in building and publishing cross-pl
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devmofizurrahman/)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.mofizur.rahman@gmail.com)
 
-## GitHub Stats:
 
-  <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=mofizur11&count_private=true&show_icons=true&theme=radical" />--> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mofizur11&layout=compact&langs_count=8&theme=radical" />
 
 
  

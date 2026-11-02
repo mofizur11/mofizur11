@@ -1,6 +1,7 @@
 ## About Me
 
-Mid-level Flutter developer with 2+ years of experience building cross-platform mobile, web, and Windows applications. Skilled in Dart, Flutter, BLoC, GetX, Firebase, and REST APIs. Delivered production-ready solutions on Android, iOS, web, and desktop platforms with a focus on clean architecture and responsive design.
+Flutter Developer with 4 years of experience in building and publishing cross-platform applications for Android, iOS, Web and Windows. Experienced in recruitment and HR management systems, including payment integration, real-time communication, video interviews and AI-powered features. Proficient in BLoC architecture, REST API integration and Firebase services.
+
 
 ## Languages and Tools:
 
